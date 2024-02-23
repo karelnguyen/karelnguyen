@@ -1,18 +1,16 @@
-<h1 align="center">Hi 👋, I'm Karel Nguyen</h1>
-<h3 align="center">A passionate software engineer with focus on building awesome things :)</h3>
+<h1 align="center">Hi there 👋, nice to see you :)</h1>
+I'm Karel a passionate software engineer from Prague with a high drive to build awesome things.
+Feel free to reach me if you want to collaborate or just to have a chat! 
 
-- 🔭 I’m currently working with **Nimbee** to build our apps and Frontend from the ground up :).
+###
 
-- 👨‍💻 Know about my experiences [https://www.linkedin.com/in/knguyen95/](https://www.linkedin.com/in/knguyen95/)
-
-- 📫 How to reach me **<nguyenkar.95@gmail.com>**
+- 🚀 Full-stack and mobile development.
+- 🔭 Currently working at **Nimbee**
+- 👨‍💻 Know about my experiences [https://www.linkedin.com/in/knguyen95/](https://www.linkedin.com/in/knguyen95)
+- 📫 How to reach me <nguyenkar.95@gmail.com>
 
 <br clear="both">
 
-<div class="flex-container"><!-- .element: style="display: flex; flex-direction: row;" -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=karelnguyen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karelnguyen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
