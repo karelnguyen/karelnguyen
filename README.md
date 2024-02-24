@@ -7,7 +7,7 @@ Feel free to reach me if you want to collaborate or just to have a chat!
 - 🚀 Full-stack and mobile development.
 - 🔭 Currently working at **Nimbee**
 - 👨‍💻 Know about my experiences [https://www.linkedin.com/in/knguyen95/](https://www.linkedin.com/in/knguyen95)
-- 📫 How to reach me <nguyenkar.95@gmail.com>
+- 📫 How to reach me [on my e-mail](mailto:nguyenkar.95@gmail.com)
 
 <br clear="both">
 
