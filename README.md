@@ -5,7 +5,7 @@ Feel free to reach me if you want to collaborate or just to have a chat!
 ###
 
 - 🚀 Full-stack and mobile development.
-- 🔭 Currently working at **Playful**
+- 🔭 Currently working at **Eyeball football technologies**
 - 👨‍💻 Know about my experiences [linkedin](https://www.linkedin.com/in/knguyen95)
 - 📫 How to reach me: [e-mail](mailto:nguyenkar.95@gmail.com)
 
